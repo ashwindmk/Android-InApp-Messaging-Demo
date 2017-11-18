@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "966312002918",
+    "firebase_url": "https://in-app-messaging-bf208.firebaseio.com",
+    "project_id": "in-app-messaging-bf208",
+    "storage_bucket": "in-app-messaging-bf208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966312002918:android:ba1e153f1428219d",
+        "android_client_info": {
+          "package_name": "com.example.ashwin.inappmessagingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966312002918-sapaup2io5leunl0usdl8bqnhhqrqr15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAx7YQt9rata2xPA5bMxPX13ea8fYmI0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
